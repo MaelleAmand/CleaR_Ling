@@ -7,6 +7,7 @@ Torino 12/12/2018
 At the end of this workshop you will be able to:
 - Identify data types
 - Load data in R (from your computer and from within R)
+- Use a script in R
 - Install and load a package in R
 - Use the help section
 - Plot 4 types of plot in R
