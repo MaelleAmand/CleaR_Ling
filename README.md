@@ -20,3 +20,4 @@ At the end of this workshop you will be able to:
 
 **Lab2:** test statistics in R: correlation test, chi-square test & ANOVA.
 
+**Lab4:** More advanced: an introduction to logistic regression and mixed effects models. 
