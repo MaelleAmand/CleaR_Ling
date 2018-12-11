@@ -21,3 +21,21 @@ At the end of this workshop you will be able to:
 **Lab2:** test statistics in R: correlation test, chi-square test & ANOVA.
 
 **Lab4:** More advanced: an introduction to logistic regression and mixed effects models. 
+
+# References:
+
+What is R? It's history in 1 minute 30 seconds:
+https://www.youtube.com/watch?v=u94oFWZCTCU
+More detailed story:
+https://www.youtube.com/watch?v=STihTnVSZnI
+
+
+
+Phone app to practice and revise:
+https://www.youtube.com/watch?v=TO4SWyKZbpM
+
+
+
+Draw inspiration from data journalism (in Italian):
+https://www.dati.gov.it/content/riuso-dei-dati-aperti-giornalismo-esperienza-info-data-blog-sole-24-ore
+
