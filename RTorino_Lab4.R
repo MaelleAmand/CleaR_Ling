@@ -6,7 +6,7 @@
 # ******************************************************************
 #  
 # Logistic regression models: level 1
-__________________________________________
+# __________________________________________
 # Logistic regressions enable you to determine whether a binary variable is affected by a series of
 # other variables in the data. They can be nominal or numeric or both. It also gives you the degree to which 
 # these variables affect the data and if a combination of variables may affect the data.
